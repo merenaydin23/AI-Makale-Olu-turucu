@@ -16,6 +16,19 @@ Yani tek seferde yüzlerce hatta binlerce kelimelik Türkçe makaleler oluştura
 
 ---
 
+## 📂 Dosya Yapısı & İsimlendirme
+
+- Ana Python dosyası: `makale_olusturucu.py`
+
+- Üretilen makaleler, sizin girdiğiniz konu başlığının ASCII’ye çevrilmiş haliyle ve artan sayılarla kaydedilir. Örnek dosya isimleri:
+
+ekonomi_1.txt
+ekonomi_2.txt
+teknoloji_1.txt
+
+
+---
+
 ## 🛠️ Gereksinimler & Kurulum
 
 - Python 3.x  
@@ -25,7 +38,3 @@ Kurmak için terminalde şunu çalıştırabilirsiniz:
 
 ```bash
 pip install cohere
-
-📧 İletişim
-Her türlü soru, değerlendirme ve öneri için:
-muhammederenaydin7@gmail.com
